@@ -12,3 +12,13 @@ var z=x+y;
 document.write("<br>");
 
 document.write("add in java script 5+60= "+z);
+
+// Day 2
+
+/*
+this is a comment and its not readable 
+
+and you have to be careful with capital letter or small 
+ex : Document.write(); its error
+     document.write(); its right 
+*/
