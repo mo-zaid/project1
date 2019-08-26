@@ -4,7 +4,7 @@ document.write("<br>")
 document.write("this text is from document.write ");
 document.write("<br>");
 
-document.write("add in java script 50+60 : "+5+60);
+document.write("add in java script 50+60 : "+50+60);
 /*
 here it add as a text
 */
@@ -50,3 +50,31 @@ var times=10;
 document.write("Hello, this is my first challenge and I will do it "+times);
 document.write("<br>");
 document.write("I will do it, I will learn JavaScript.");
+document.write("<br>");
+
+
+// Day 6
+
+document.write("<br>");
+document.write("<br>");
+document.write("<h1> day 6 </h1>");
+document.write("<h1>trying to print from function </h1>");
+document.write("<br>");
+
+function hello()
+{
+    document.write("hello from function !!!!");
+}
+
+hello();
+
+
+
+
+
+
+
+
+
+
+
