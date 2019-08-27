@@ -4,16 +4,16 @@ document.write("<br>")
 document.write("this text is from document.write ");
 document.write("<br>");
 
-document.write("add in java script 50+60 : "+50+60);
+document.write("add in java script 50+60 : " + 50 + 60);
 /*
 here it add as a text
 */
-var x=5;
-var y=60;
-var z=x+y;
+var x = 5;
+var y = 60;
+var z = x + y;
 document.write("<br>");
 
-document.write("add in java script 5+60= "+z);
+document.write("add in java script 5+60= " + z);
 document.write("<br>");
 
 // Day 2
@@ -31,8 +31,8 @@ ex : Document.write(); its error
 document.write("<br>")
 document.write("<h1> day 3 </h1>")
 
-var five=500;
-document.write(" the variable x = "+five);
+var five = 500;
+document.write(" the variable x = " + five);
 
 //day 4-5
 
@@ -45,9 +45,9 @@ document.write("<h1> day 4-5 </h1>")
 
 document.write("<br>");
 
-var times=10;
+var times = 10;
 
-document.write("Hello, this is my first challenge and I will do it "+times);
+document.write("Hello, this is my first challenge and I will do it " + times);
 document.write("<br>");
 document.write("I will do it, I will learn JavaScript.");
 document.write("<br>");
@@ -61,20 +61,8 @@ document.write("<h1> day 6 </h1>");
 document.write("<h1>trying to print from function </h1>");
 document.write("<br>");
 
-function hello()
-{
+function hello() {
     document.write("hello from function !!!!");
 }
 
 hello();
-
-
-
-
-
-
-
-
-
-
-
