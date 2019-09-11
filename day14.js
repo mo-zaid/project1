@@ -7,7 +7,7 @@ if (x == y) {
     console.log("x != value with y")
 }
 if (x === y) {
-    console.log("x=y same number and type")
+    console.log("x=y same number && type")
 } else {
-    console.log("x != value with y || x !== y with the type ")
+    console.log("x != value with y && x !== y with the type ")
 }
